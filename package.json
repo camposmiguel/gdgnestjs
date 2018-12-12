@@ -19,6 +19,7 @@
   "dependencies": {
     "@nestjs/common": "^5.0.0",
     "@nestjs/core": "^5.0.0",
+    "@nestjs/swagger": "^2.5.1",
     "fastify-formbody": "^2.0.0",
     "mysql": "^2.16.0",
     "reflect-metadata": "^0.1.12",
